@@ -46,4 +46,4 @@ ax.bar_label(s_eng, padding=3)
 ax.bar_label(s_phy, padding=3)
 ax.bar_label(s_comp, padding=3)
 
-#fig.savefig('A11.png')
+fig.savefig('A11.png')
